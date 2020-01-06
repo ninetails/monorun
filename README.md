@@ -1,0 +1,2 @@
+# monorun
+A monorepo runner
